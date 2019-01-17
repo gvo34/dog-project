@@ -14,13 +14,15 @@
 
 ### Dataset
 
-1. Location `dog-project/dogImages` populated from the [dog dataset] at (https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) 
+- Location `dog-project/dogImages` populated from the [dog dataset] at (https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip) 
 
-2. Location `/dog-project/lfw` populated with images from the [human dataset] at (https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  
+-  Location `/dog-project/lfw` populated with images from the [human dataset] at (https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  
 
-3. Pre-trained models use features from [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  located at location `path/to/dog-project/bottleneck_features`.
+-  Pre-trained models use features from [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  located at location `path/to/dog-project/bottleneck_features`.
 
-4. Code in the jupyter notebook.
+### Code
+
+-  Code in the jupyter notebook.
 `
 dog_app.ipynb
 `
